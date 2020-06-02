@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-05-15 20:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-05-10 18:09:48 +0000"
@@ -164,6 +170,15 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-05-09 13:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-05-30 00:50:57 +0000",
+      "diamond_helmet": "2020-05-30 00:50:57 +0000",
+      "diamond_chestplate": "2020-05-30 00:50:57 +0000",
+      "diamond_boots": "2020-05-30 00:50:57 +0000"
     },
     "done": true
   },
@@ -257,6 +272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2020-05-29 22:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-05-09 12:53:03 +0000"
@@ -344,6 +365,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-05-10 19:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-05-15 20:53:04 +0000"
     },
     "done": true
   },
@@ -546,6 +573,7 @@
       "minecraft:skeleton": "2020-05-09 13:08:08 +0000",
       "minecraft:spider": "2020-05-09 13:46:19 +0000",
       "minecraft:creeper": "2020-05-09 19:32:04 +0000",
+      "minecraft:witch": "2020-05-15 23:36:42 +0000",
       "minecraft:husk": "2020-05-10 09:38:08 +0000",
       "minecraft:cave_spider": "2020-05-09 18:49:33 +0000",
       "minecraft:zombie": "2020-05-09 13:05:25 +0000",
@@ -557,6 +585,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-05-09 12:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-05-15 23:23:33 +0000"
     },
     "done": true
   },
@@ -584,6 +618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-05-29 23:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-09 13:12:20 +0000"
@@ -608,6 +648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-05-15 20:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-05-14 20:10:48 +0000"
@@ -629,6 +675,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-05-09 12:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-05-29 20:44:37 +0000"
     },
     "done": true
   },
@@ -680,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-05-15 19:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-05-09 18:50:07 +0000"
@@ -701,6 +759,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2020-05-14 19:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2020-05-15 21:44:46 +0000"
     },
     "done": true
   },
@@ -1038,6 +1102,7 @@
       "minecraft:beach": "2020-05-09 19:23:44 +0000",
       "minecraft:dark_forest": "2020-05-09 13:13:13 +0000",
       "minecraft:river": "2020-05-09 12:26:28 +0000",
+      "minecraft:lukewarm_ocean": "2020-05-15 19:57:15 +0000",
       "minecraft:birch_forest_hills": "2020-05-09 18:45:27 +0000",
       "minecraft:wooded_hills": "2020-05-14 21:47:19 +0000",
       "minecraft:swamp": "2020-05-09 19:38:10 +0000",
@@ -1049,6 +1114,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-09 13:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2020-05-15 22:49:45 +0000"
     },
     "done": true
   },
@@ -1121,6 +1192,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-05-10 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2020-05-15 21:44:46 +0000"
     },
     "done": true
   },
@@ -1259,6 +1336,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2020-05-10 09:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2020-05-15 21:44:46 +0000"
     },
     "done": true
   },
@@ -1472,6 +1555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2020-05-15 21:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-05-09 12:26:37 +0000"
@@ -1493,6 +1582,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2020-05-10 19:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-05-15 20:28:24 +0000"
     },
     "done": true
   },
@@ -1531,10 +1626,13 @@
       "cooked_porkchop": "2020-05-09 13:18:06 +0000",
       "cooked_mutton": "2020-05-09 12:49:07 +0000",
       "cooked_beef": "2020-05-09 19:16:49 +0000",
+      "baked_potato": "2020-05-15 22:52:52 +0000",
+      "potato": "2020-05-31 23:20:03 +0000",
       "golden_apple": "2020-05-09 19:08:49 +0000",
       "bread": "2020-05-10 09:42:26 +0000",
       "rotten_flesh": "2020-05-09 19:02:09 +0000",
       "salmon": "2020-05-10 11:44:12 +0000",
+      "beetroot": "2020-05-15 20:41:50 +0000",
       "cooked_chicken": "2020-05-09 13:47:57 +0000",
       "cooked_salmon": "2020-05-09 13:56:23 +0000",
       "carrot": "2020-05-14 20:29:26 +0000"
@@ -1661,6 +1759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2020-05-15 21:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-05-09 18:50:07 +0000"
@@ -1766,6 +1870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-05-15 20:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-05-09 12:38:57 +0000"
@@ -1862,6 +1972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-05-29 22:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2020-05-10 09:42:44 +0000"
@@ -1922,6 +2038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-05-15 19:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-05-09 18:49:32 +0000"
@@ -1955,6 +2077,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-05-09 13:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-05-15 19:51:46 +0000"
     },
     "done": true
   },
@@ -2378,6 +2506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2020-05-15 21:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2020-05-09 18:43:22 +0000"
@@ -2423,6 +2557,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-05-09 12:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-05-29 20:30:17 +0000"
     },
     "done": true
   },
@@ -2567,6 +2707,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-05-09 12:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-05-15 20:01:27 +0000"
     },
     "done": true
   },
