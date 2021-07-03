@@ -1,12 +1,5 @@
-[21:37:49] [Server thread/INFO]: Stopping server
-[21:37:49] [Server thread/INFO]: Saving players
-[21:37:49] [Server thread/INFO]: Saving worlds
-[21:37:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:37:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:37:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:17:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4832ms or 96 ticks behind
+[19:48:41] [Server thread/INFO]: Envalio[/46.119.243.82:40992] logged in with entity id 334268 at (-360.07849767738935, 64.0, -803.1527357706021)
+[19:48:41] [Server thread/INFO]: Envalio joined the game
+[20:02:31] [Server thread/INFO]: Envalio lost connection: Disconnected
+[20:02:31] [Server thread/INFO]: Envalio left the game
